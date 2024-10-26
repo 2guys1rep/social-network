@@ -129,7 +129,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+.idea
+backend/migrations
+alembic.ini
 # Spyder project settings
 .spyderproject
 .spyproject
